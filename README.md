@@ -12,32 +12,23 @@ IntroGenie is a web-based assistant designed to help users craft engaging and pe
 
 - Customized Introductions: Based on the gathered information, IntroGenie creates a unique and compelling introduction for your specific context.
 
-## Demo
 
-[Play the game live](#)
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript
+
 
 ## Screenshots
 
 ![Screenshot 1](https://i.pinimg.com/736x/82/73/bd/8273bd6bef9ff791716ae900725beb30.jpg)
 
-## Installation
 
-Get started with TypeCraft by following these simple steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/Artist-dk/IntroGenie.git
-
-# Change directory
-cd IntroGenie
-
-# Install dependencies
-npm install
-
-```
 
 ## Author
-Digambar Kumbhar
+Hello! I am Digambar Kumbhar
+#### 🚀 About Me
+I'm a full stack developer...
+
 
 ## Contact
 For inquiries or feedback, feel free to contact the project maintainer at [digambarckumbhar299@gmail.com] or connect on [LinkedIn](https://www.linkedin.com/in/digambar-kumbhar/).
